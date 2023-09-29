@@ -1,4 +1,12 @@
 {
       "firstName": "Novojit",
-      "lastName": "Das"
+      "lastName": "Das",
+      "address": "Dhaka",
+      "education": "CSE",
+      "skills" : {
+            "html": "yes",
+            "css": "yes",
+            "react": "no",
+            "node": "yes"
+      }
 }
