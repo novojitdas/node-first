@@ -1,0 +1,14 @@
+{
+  "name": "greet-message-novojit",
+  "version": "1.0.0",
+  "description": "npm test package, not useful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "novojit das",
+  "license": "ISC",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
